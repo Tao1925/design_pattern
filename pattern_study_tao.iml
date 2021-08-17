@@ -7,5 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="asm-9.2" level="project" />
+    <orderEntry type="library" name="asm-commons-3.3.1" level="project" />
+    <orderEntry type="library" name="asm-tree-3.3.1" level="project" />
+    <orderEntry type="library" name="cglib-3.3.0" level="project" />
   </component>
 </module>
